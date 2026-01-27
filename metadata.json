@@ -1,0 +1,7 @@
+{
+  "name": "CheapFinds",
+  "description": "Upload a product image to instantly find the best prices and sources across the web using Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
